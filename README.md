@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Portfolio-Website-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Portfolio-Website-Builder?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Portfolio-Website-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Portfolio-Website-Builder?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Portfolio-Website-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Portfolio-Website-Builder?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Portfolio-Website-Builder/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Portfolio-Website-Builder?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Portfolio-Website-Builder/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -67,133 +67,133 @@ The table below provides a ranked overview of notable hosted SaaS portfolio buil
 
 The projects below represent premier open-source portfolio website builders, static templates, and self-hosted publishing platforms. **Sorted in descending order by GitHub stargazers count**, each repo links directly to its stargazer community.
 
-### 1. [GrapesJS](https://github.com/GrapesJS/grapesjs) [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)
+### 1. [GrapesJS](https://github.com/GrapesJS/grapesjs) [![GitHub_Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)
 - **Tech Stack**: TypeScript, JavaScript, Web Components
 - **License**: BSD-3-Clause
 - **Description**: The next-generation open-source multi-purpose Web Builder Framework. Perfect for building custom no-code drag-and-drop portfolio editors without external dependencies. Features responsive layout modes, rich style management, and an extensible plugin ecosystem.
 - **Best For**: Developers and agencies building custom in-browser visual portfolio builders.
 
-### 2. [Academic Pages](https://github.com/academicpages/academicpages.github.io) [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io?style=social&color=white)](https://github.com/academicpages/academicpages.github.io/stargazers)
+### 2. [Academic Pages](https://github.com/academicpages/academicpages.github.io) [![GitHub_Stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io?style=social&color=white)](https://github.com/academicpages/academicpages.github.io/stargazers)
 - **Tech Stack**: Jekyll, Markdown, HTML/CSS
 - **License**: MIT
 - **Description**: A battle-tested GitHub Pages personal academic and developer portfolio template. Built on Jekyll and Markdown, it makes publishing research publications, talks, CVs, and teaching experience as simple as editing flat text files.
 - **Best For**: Researchers, academics, data scientists, and engineers desiring a clean markdown-driven GitHub Pages portfolio.
 
-### 3. [Simplefolio](https://github.com/cobiwave/simplefolio) [![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio?style=social&color=white)](https://github.com/cobiwave/simplefolio/stargazers)
+### 3. [Simplefolio](https://github.com/cobiwave/simplefolio) [![GitHub_Stars](https://img.shields.io/github/stars/cobiwave/simplefolio?style=social&color=white)](https://github.com/cobiwave/simplefolio/stargazers)
 - **Tech Stack**: Vanilla HTML5, SCSS, JavaScript, Webpack
 - **License**: MIT
 - **Description**: A blazing-fast, minimalist, and ultra-responsive developer portfolio template. Featuring modern scroll reveal animations, clean sections for skills and project showcases, and near-perfect Google Lighthouse performance scores.
 - **Best For**: Software engineers looking for a lightweight, zero-bloat portfolio that deploys in seconds.
 
-### 4. [vCard Personal Portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) [![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social&color=white)](https://github.com/codewithsadee/vcard-personal-portfolio/stargazers)
+### 4. [vCard Personal Portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) [![GitHub_Stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social&color=white)](https://github.com/codewithsadee/vcard-personal-portfolio/stargazers)
 - **Tech Stack**: HTML5, CSS3, Vanilla JavaScript
 - **License**: MIT
 - **Description**: A sleek, card-inspired personal portfolio website modeled after modern mobile operating systems. Fully responsive with smooth tab switching between Resume, Projects, Portfolio, and Contact sections.
 - **Best For**: Web developers and freelancers who want an interactive, digital-business-card experience.
 
-### 5. [developerFolio](https://github.com/saadpasta/developerFolio) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio?style=social&color=white)](https://github.com/saadpasta/developerFolio/stargazers)
+### 5. [developerFolio](https://github.com/saadpasta/developerFolio) [![GitHub_Stars](https://img.shields.io/github/stars/saadpasta/developerFolio?style=social&color=white)](https://github.com/saadpasta/developerFolio/stargazers)
 - **Tech Stack**: React.js, GraphQL, GitHub API
 - **License**: MIT
 - **Description**: A complete software developer portfolio template that automatically showcases your GitHub contributions, open-source repositories, blog posts, and technical skills through direct GitHub GraphQL integration.
 - **Best For**: Full-stack engineers wanting an automated portfolio that updates alongside their GitHub activity.
 
-### 6. [Soumyajit's Portfolio](https://github.com/soumyajit4419/Portfolio) [![GitHub stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?style=social&color=white)](https://github.com/soumyajit4419/Portfolio/stargazers)
+### 6. [Soumyajit's Portfolio](https://github.com/soumyajit4419/Portfolio) [![GitHub_Stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?style=social&color=white)](https://github.com/soumyajit4419/Portfolio/stargazers)
 - **Tech Stack**: React.js, React-Bootstrap, CSS3
 - **License**: MIT
 - **Description**: An interactive developer portfolio template with smooth particle background animations, responsive project grids, resume PDF preview, and dynamic routing.
 - **Best For**: Front-end developers desiring an animated, engaging personal brand site.
 
-### 7. [BioDrop](https://github.com/EddieHubCommunity/BioDrop) [![GitHub stars](https://img.shields.io/github/stars/EddieHubCommunity/BioDrop?style=social&color=white)](https://github.com/EddieHubCommunity/BioDrop/stargazers)
+### 7. [BioDrop](https://github.com/EddieHubCommunity/BioDrop) [![GitHub_Stars](https://img.shields.io/github/stars/EddieHubCommunity/BioDrop?style=social&color=white)](https://github.com/EddieHubCommunity/BioDrop/stargazers)
 - **Tech Stack**: Next.js, Tailwind CSS, MongoDB
 - **License**: MIT
 - **Description**: A community-driven, open-source alternative to Linktree and Bento (formerly LinkFree). Allows creators and developers to aggregate social profiles, repos, videos, testimonials, and events in one unified hub configured via JSON.
 - **Best For**: Content creators and open-source contributors wanting an open link-in-bio and micro-portfolio.
 
-### 8. [DevPortfolio](https://github.com/RyanFitzgerald/devportfolio) [![GitHub stars](https://img.shields.io/github/stars/RyanFitzgerald/devportfolio?style=social&color=white)](https://github.com/RyanFitzgerald/devportfolio/stargazers)
+### 8. [DevPortfolio](https://github.com/RyanFitzgerald/devportfolio) [![GitHub_Stars](https://img.shields.io/github/stars/RyanFitzgerald/devportfolio?style=social&color=white)](https://github.com/RyanFitzgerald/devportfolio/stargazers)
 - **Tech Stack**: Astro, Tailwind CSS, TypeScript
 - **License**: MIT
 - **Description**: A modern, minimalist portfolio template engineered with Astro and Tailwind CSS. Provides instant page loads, sub-second TTFB, zero client runtime JavaScript by default, and structured schema markup for search engines.
 - **Best For**: Developers who prioritize sub-millisecond static page speeds and impeccable SEO rankings.
 
-### 9. [Master Portfolio](https://github.com/ashutosh1919/masterPortfolio) [![GitHub stars](https://img.shields.io/github/stars/ashutosh1919/masterPortfolio?style=social&color=white)](https://github.com/ashutosh1919/masterPortfolio/stargazers)
+### 9. [Master Portfolio](https://github.com/ashutosh1919/masterPortfolio) [![GitHub_Stars](https://img.shields.io/github/stars/ashutosh1919/masterPortfolio?style=social&color=white)](https://github.com/ashutosh1919/masterPortfolio/stargazers)
 - **Tech Stack**: React.js, Lottie Animations, Styled Components
 - **License**: MIT
 - **Description**: A comprehensive developer portfolio featuring custom SVG illustrations, animated splash screens, Lottie motion graphics, skill progress bars, and Medium blog integration.
 - **Best For**: Engineers and tech leaders wanting an expressive, animated narrative portfolio.
 
-### 10. [Dopefolio](https://github.com/rammcodes/Dopefolio) [![GitHub stars](https://img.shields.io/github/stars/rammcodes/Dopefolio?style=social&color=white)](https://github.com/rammcodes/Dopefolio/stargazers)
+### 10. [Dopefolio](https://github.com/rammcodes/Dopefolio) [![GitHub_Stars](https://img.shields.io/github/stars/rammcodes/Dopefolio?style=social&color=white)](https://github.com/rammcodes/Dopefolio/stargazers)
 - **Tech Stack**: HTML5, SCSS, JavaScript
 - **License**: MIT
 - **Description**: A multi-page, high-converting portfolio template designed specifically for developers seeking employment or freelance clients. Includes dedicated project case-study deep dives and lead capture contact forms.
 - **Best For**: Job-hunting developers focused on converting hiring managers with detailed case studies.
 
-### 11. [Silex](https://github.com/silexlabs/Silex) [![GitHub stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)
+### 11. [Silex](https://github.com/silexlabs/Silex) [![GitHub_Stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)
 - **Tech Stack**: JavaScript, HTML5, Rust (Desktop Engine), Tauri
 - **License**: AGPL-3.0
 - **Description**: The free/libre no-code website builder for the static web — often dubbed the open-source Webflow. Offers a true drag-and-drop visual design interface, generates clean static HTML/CSS, and can be run locally as a desktop app or self-hosted in a container.
 - **Best For**: Visual designers and agencies wanting visual editing power without proprietary platform subscription locks.
 
-### 12. [Developer Portfolio (Next.js)](https://github.com/said7388/developer-portfolio) [![GitHub stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social&color=white)](https://github.com/said7388/developer-portfolio/stargazers)
+### 12. [Developer Portfolio (Next.js)](https://github.com/said7388/developer-portfolio) [![GitHub_Stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social&color=white)](https://github.com/said7388/developer-portfolio/stargazers)
 - **Tech Stack**: Next.js 14, Tailwind CSS, TypeScript
 - **License**: MIT
 - **Description**: A modern, dark-themed developer portfolio equipped with integrated project showcases, interactive tech skill pills, blog capabilities, and email sending via Nodemailer/Telegram bot integrations.
 - **Best For**: Modern TypeScript & Next.js engineers desiring a production-ready personal site.
 
-### 13. [Astrofy](https://github.com/manuelernestog/astrofy) [![GitHub stars](https://img.shields.io/github/stars/manuelernestog/astrofy?style=social&color=white)](https://github.com/manuelernestog/astrofy/stargazers)
+### 13. [Astrofy](https://github.com/manuelernestog/astrofy) [![GitHub_Stars](https://img.shields.io/github/stars/manuelernestog/astrofy?style=social&color=white)](https://github.com/manuelernestog/astrofy/stargazers)
 - **Tech Stack**: Astro, Tailwind CSS, DaisyUI
 - **License**: MIT
 - **Description**: A customizable personal portfolio and blog template built with Astro and DaisyUI. Bundles CV/resume timelines, portfolio project showcases, a full Markdown/MDX blog with RSS feed, and theme switching.
 - **Best For**: Programmers wanting a unified blog, resume, and project portfolio in one lightweight package.
 
-### 14. [Devlopr Jekyll](https://github.com/sujaykundu777/devlopr-jekyll) [![GitHub stars](https://img.shields.io/github/stars/sujaykundu777/devlopr-jekyll?style=social&color=white)](https://github.com/sujaykundu777/devlopr-jekyll/stargazers)
+### 14. [Devlopr Jekyll](https://github.com/sujaykundu777/devlopr-jekyll) [![GitHub_Stars](https://img.shields.io/github/stars/sujaykundu777/devlopr-jekyll?style=social&color=white)](https://github.com/sujaykundu777/devlopr-jekyll/stargazers)
 - **Tech Stack**: Jekyll, Ruby, Markdown, Netlify CMS / Decap
 - **License**: MIT
 - **Description**: A customizable, hackable Jekyll portfolio and blogging theme equipped with Netlify CMS for web-based content administration. Supports code syntax highlighting, newsletter subscriptions, and Disqus comments.
 - **Best For**: Developers wanting a GitHub Pages-hosted portfolio with a built-in content management interface.
 
-### 15. [Microfolio](https://github.com/aker-dev/microfolio) [![GitHub stars](https://img.shields.io/github/stars/aker-dev/microfolio?style=social&color=white)](https://github.com/aker-dev/microfolio/stargazers)
+### 15. [Microfolio](https://github.com/aker-dev/microfolio) [![GitHub_Stars](https://img.shields.io/github/stars/aker-dev/microfolio?style=social&color=white)](https://github.com/aker-dev/microfolio/stargazers)
 - **Tech Stack**: SvelteKit 2, Tailwind CSS 4, OpenFreeMap
 - **License**: MIT
 - **Description**: The privacy-first, zero-cookie static portfolio generator for visual artists. Features build-time image optimization, WebP thumbnail generation, internationalization (English/French/RTL), zero tracking scripts, and map integration without proprietary API keys.
 - **Best For**: Photographers and visual creators wanting pristine image rendering and 100% privacy compliance.
 
-### 16. [OrbitPage](https://github.com/paoloronco/OrbitPage) [![GitHub stars](https://img.shields.io/github/stars/paoloronco/OrbitPage?style=social&color=white)](https://github.com/paoloronco/OrbitPage/stargazers)
+### 16. [OrbitPage](https://github.com/paoloronco/OrbitPage) [![GitHub_Stars](https://img.shields.io/github/stars/paoloronco/OrbitPage?style=social&color=white)](https://github.com/paoloronco/OrbitPage/stargazers)
 - **Tech Stack**: Docker, Node.js, Web Technologies
 - **License**: AGPL-3.0
 - **Description**: An open-source, self-hosted public page builder for personal bios, media showcases, venues, and events. Deployable in a single Docker command, offering a multi-language dashboard (14 languages), QR code generation, and custom styling.
 - **Best For**: Self-hosters looking for a comprehensive, containerized bio and portfolio management service.
 
-### 17. [Horizon Portfolio](https://github.com/Cosmic-Themes/horizon) [![GitHub stars](https://img.shields.io/github/stars/Cosmic-Themes/horizon?style=social&color=white)](https://github.com/Cosmic-Themes/horizon/stargazers)
+### 17. [Horizon Portfolio](https://github.com/Cosmic-Themes/horizon) [![GitHub_Stars](https://img.shields.io/github/stars/Cosmic-Themes/horizon?style=social&color=white)](https://github.com/Cosmic-Themes/horizon/stargazers)
 - **Tech Stack**: Astro, Tailwind CSS, TypeScript
 - **License**: GPL-3.0
 - **Description**: A photography and visual portfolio template by Cosmic Themes built on Astro. Offers responsive photo grid lightbox previews, full-screen galleries, and one-click deployment to Netlify, Vercel, or Cloudflare Pages.
 - **Best For**: Photographers seeking an aesthetic, minimalist static presentation.
 
-### 18. [Design & Photography Portfolio](https://github.com/pysunday/DesignPhotographyPortfolio) [![GitHub stars](https://img.shields.io/github/stars/pysunday/DesignPhotographyPortfolio?style=social&color=white)](https://github.com/pysunday/DesignPhotographyPortfolio/stargazers)
+### 18. [Design & Photography Portfolio](https://github.com/pysunday/DesignPhotographyPortfolio) [![GitHub_Stars](https://img.shields.io/github/stars/pysunday/DesignPhotographyPortfolio?style=social&color=white)](https://github.com/pysunday/DesignPhotographyPortfolio/stargazers)
 - **Tech Stack**: Astro, CSS, Responsive Grid
 - **License**: MIT
 - **Description**: A free, multilingual Astro template for showcasing creative design and photography portfolios. Includes dark/light mode toggles, internationalized documentation (English & Chinese), and clean gallery navigation.
 - **Best For**: Designers and photographers needing a simple, fast Astro starter.
 
-### 19. [Foil](https://github.com/alaingalvan/foil) [![GitHub stars](https://img.shields.io/github/stars/alaingalvan/foil?style=social&color=white)](https://github.com/alaingalvan/foil/stargazers)
+### 19. [Foil](https://github.com/alaingalvan/foil) [![GitHub_Stars](https://img.shields.io/github/stars/alaingalvan/foil?style=social&color=white)](https://github.com/alaingalvan/foil/stargazers)
 - **Tech Stack**: TypeScript, React, GraphQL, PostgreSQL, Rust
 - **License**: MIT
 - **Description**: An open-source portfolio CMS library engineered for technical artists, game developers, graphics programmers, and musicians. Enables custom interactive front-end experiment rendering, shaders, games, and long-form technical articles.
 - **Best For**: Graphics programmers, technical directors, and interactive artists.
 
-### 20. [Open Bento](https://github.com/researchaiplus/open-bento-me) [![GitHub stars](https://img.shields.io/github/stars/researchaiplus/open-bento-me?style=social&color=white)](https://github.com/researchaiplus/open-bento-me/stargazers)
+### 20. [Open Bento](https://github.com/researchaiplus/open-bento-me) [![GitHub_Stars](https://img.shields.io/github/stars/researchaiplus/open-bento-me?style=social&color=white)](https://github.com/researchaiplus/open-bento-me/stargazers)
 - **Tech Stack**: Next.js 15, Tailwind CSS, Radix UI, GitHub API
 - **License**: MIT
 - **Description**: The open-source preservation and revival of the beloved Bento.me platform. Deploys directly to GitHub Pages; your portfolio data stays in your browser and commits directly to your own GitHub repository via the GitHub REST API.
 - **Best For**: Creators wanting a card-based bento grid portfolio that can never be shut down by a centralized company.
 
-### 21. [WebGen](https://github.com/Sid200026/WebGen) [![GitHub stars](https://img.shields.io/github/stars/Sid200026/WebGen?style=social&color=white)](https://github.com/Sid200026/WebGen/stargazers)
+### 21. [WebGen](https://github.com/Sid200026/WebGen) [![GitHub_Stars](https://img.shields.io/github/stars/Sid200026/WebGen?style=social&color=white)](https://github.com/Sid200026/WebGen/stargazers)
 - **Tech Stack**: Node.js, Markdown, EJS
 - **License**: MIT
 - **Description**: An open-source, ultra-simple personal resume and portfolio generator. Parses markdown files into structured static HTML layouts with zero boilerplate.
 - **Best For**: Developers wanting a fast markdown-to-portfolio CLI tool.
 
-### 22. [Astro Storyblok Portfolio](https://github.com/ninjulia/astro-storyblok-portfolio) [![GitHub stars](https://img.shields.io/github/stars/ninjulia/astro-storyblok-portfolio?style=social&color=white)](https://github.com/ninjulia/astro-storyblok-portfolio/stargazers)
+### 22. [Astro Storyblok Portfolio](https://github.com/ninjulia/astro-storyblok-portfolio) [![GitHub_Stars](https://img.shields.io/github/stars/ninjulia/astro-storyblok-portfolio?style=social&color=white)](https://github.com/ninjulia/astro-storyblok-portfolio/stargazers)
 - **Tech Stack**: Astro, Storyblok Headless CMS, Tailwind CSS
 - **License**: MIT
 - **Description**: A modern starter combining Astro's static site generation speed with Storyblok's real-time visual headless CMS editor. Features automated sitemaps, OpenGraph image cards, and live visual previews.
